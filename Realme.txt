@@ -1,0 +1,11 @@
+Links de la pagina 
+
+Clon-Amazon
+
+	https://castromiguelangel.github.io/proyecto-clon-amazzon/
+
+Github
+
+	https://github.com/CastroMiguelAngel/proyecto-clon-amazzon
+
+Para la version android o windows deben descargar su respectivo .rar para descargar e instalar de manera tradicional  
